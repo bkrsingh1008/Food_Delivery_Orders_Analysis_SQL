@@ -8,6 +8,7 @@
 -------------------------------
 -------------------------------
 Tools Used: MySQL
+
 Goal: Answer business-related questions using advanced SQL techniques such as subqueries, window functions, CTEs, and joins.
 
 📊 Business Questions Solved:
