@@ -7,7 +7,7 @@
 📌 Tools and Techniques:
 -------------------------------
 -------------------------------
-Tools Used: MySQL
+Tools Used: SQL Server
 
 Goal: Answer business-related questions using advanced SQL techniques such as subqueries, window functions, CTEs, and joins.
 
